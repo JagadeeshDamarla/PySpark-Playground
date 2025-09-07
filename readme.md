@@ -1,6 +1,5 @@
 ## 🎯 Purpose
-
-The purpose of this repository is to practise mutliple scenarios using pyspark and cracking databrick pyspark certification
+- The purpose of this repository is to practise mutliple scenarios using pyspark and cracking databrick pyspark certification
 ---
 
 ## Current Folders
